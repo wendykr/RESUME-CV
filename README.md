@@ -1,6 +1,6 @@
 # Resume CV
 
-Soutěžní projekt o program [ReactGirls Mentoring 2023](https://reactgirls.com/mentoring)
+Soutěžní projekt o program [ReactGirls Mentoring PODZIM 2023](https://reactgirls.com/mentoring)
 
 - [Zadání](#Zadání)
 - [Rozsah a realizace](#Rozsah-a-realizace)
